@@ -47,7 +47,7 @@ def get_crime_id():
 def get_data(url, term=None):
     while True:
         try:
-            start_date = input("Enter a start date (default is 2000-01-31)\n"
+            start_date = input("Enter a start date (default is 2000-01-01)\n"
                                "Format: YYYY-MM-DD\n")
             if start_date == '':
                 start_date = '2000-01-01'
