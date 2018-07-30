@@ -13,7 +13,7 @@
 <p>Make sure all the files are in the same directory, then type the following:</p>
 <pre><code>python3 nfl_arrest.py
 </code></pre>
-<h3><a id="Known_Issues_30"></a>Known Issues</h3>
+<h2><a id="Known_Issues_30"></a>Known Issues</h2>
 <p>The format of the “Description” column that prints when the user requests arrest details is messed up, currently being worked on.</p>
 <h2><a id="Authors_34"></a>Authors</h2>
 <ul>
