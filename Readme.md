@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Readme.md</title><style></style></head><body id="preview">
 <h1><a id="NFL_arREST_Client_0"></a>NFL arREST Client</h1>
 <p>This application returns all National Football League arrest data, dating back to January 1st, 2000. You can look up arrests by crime, team, player, or position.</p>
 <p>Uses the NFLArrest API created by Patrick Murphy.</p>
@@ -21,7 +20,7 @@
 <li><strong>Ryan Ng</strong> - <a href="https://github.com/nayrng">nayrng</a></li>
 </ul>
 <h2><a id="License_38"></a>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details</p>
+<p>This project is licensed under the MIT License - see the <a href="https://github.com/nayrng/NFL-arrest-client/blob/master/LICENSE">LICENSE.md</a> file for details</p>
 <h2><a id="Acknowledgments_42"></a>Acknowledgments</h2>
 <ul>
 <li><a href="http://resume.patrickmurphyphoto.com/">Patrick Murphy</a> for providing the NFLArrest API</li>
