@@ -4,6 +4,7 @@
 <h2><a id="Getting_Started_6"></a>Getting Started</h2>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 <h3><a id="Prerequisites_10"></a>Prerequisites</h3>
+<p>Python 3.6 or higher</p>
 <p>See <code>requirements.txt</code></p>
 <h3><a id="Installing_14"></a>Installing</h3>
 <p>Install the required packages in <code>requirements.txt</code> using <code>pip</code>:</p>
